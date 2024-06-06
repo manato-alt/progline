@@ -1,0 +1,6 @@
+[submodule "progline_front"]
+	path = progline_front
+	url = git@github.com:manato-alt/progline_front.git
+[submodule "progline_back"]
+	path = progline_back
+	url = git@github.com:manato-alt/progline_back.git
