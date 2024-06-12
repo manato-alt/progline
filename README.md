@@ -63,6 +63,7 @@ https://web.progline-tech.com/
   - Certificate Manager
   - Elastic Load Balancing
   - Fargate
+  - Lambda
   - RDS(MySQL)
 
 ### 外部サービス
